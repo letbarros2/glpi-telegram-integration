@@ -1,0 +1,4 @@
+.env
+estado_tickets_v2.json
+*.log
+__pycache__/
